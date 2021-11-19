@@ -3,7 +3,6 @@
 
 - 🔭 Atualmente trabalho como Analista de logística
 - 👨‍🎓 Sou estudante de Ciência de Dados
-- 🌱 Estou em transição de carreira para atuar como cientista de dados
 - 📫 Contate-me no e-mail: cfadriano@outlook.com
 - 😄 Pronouns: ele/dele
 
