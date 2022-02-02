@@ -1,8 +1,8 @@
 ### Olá! Eu sou Adriano Costa 👋
 
 
-- 🔭 Atualmente trabalho como Analista de logística
-- 👨‍🎓 Sou estudante de Ciência de Dados
+- 🔭 Após 12 anos de experiência em Logística e 9 anos como empreendedor no segmento cultural, atualmente estou em transição de carreira parea a área de TI
+- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas. Pós graduado em Ciência de Dados
 - 📫 Contate-me no e-mail: cfadriano@outlook.com
 - 😄 Pronouns: ele/dele
 
