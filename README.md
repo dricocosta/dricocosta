@@ -1,7 +1,7 @@
 ### Olá! Eu sou Adriano Costa 👋
 
 
-- 🔭 Após 12 anos de experiência em Logística e 9 anos como empreendedor no segmento cultural, atualmente estou em transição de carreira parea a área de TI
+- 🔭 Após 12 anos de experiência em Logística e 9 anos como empreendedor no segmento cultural, atualmente estou em transição de carreira para a área de TI.
 - 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas. Pós graduado em Ciência de Dados
 - 📫 Contate-me no e-mail: cfadriano@outlook.com
 - 😄 Pronouns: ele/dele
