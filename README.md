@@ -1,8 +1,8 @@
 ### Olá! Eu sou Adriano Costa 👋
 
 
-- 🔭 Após 12 anos de experiência em Logística e 9 anos como empreendedor no segmento cultural, atualmente estou em transição de carreira para a área de TI.
-- 👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas. Pós graduado em Ciência de Dados
+- 🔭 Atualmente venho  me qualifiando para trabalhar com as linguagens Python e Java e buscando competências em análise de dados, storytelling e machine learning. 
+- 👨‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na UNIP e pós-graduando em Ciência de Dados pela universidade MAckenzie.
 - 📫 Contate-me no e-mail: cfadriano@outlook.com
 - 😄 Pronouns: ele/dele
 
