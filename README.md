@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou me qualificando para trabalhar com as linguagens Python, SQL e Java, e desenvolvendo competências em análise de dados, storytelling e machine learning. 
-- 👨‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na UNIP e pós-graduando em Ciência de Dados pela universidade MAckenzie.
+- 👨‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na UNIP e pós-graduando em Ciência de Dados pela universidade Mackenzie.
 - 📫 Contate-me no e-mail: cfadriano@outlook.com
 - 😄 Pronouns: ele/dele
 
