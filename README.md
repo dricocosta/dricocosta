@@ -1,7 +1,7 @@
 ### Olá! Eu sou Adriano Costa 👋
 
 
-- 👨‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na UNIP e pós-graduando em Ciência de Dados pela universidade Mackenzie.
+- 👨‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na UNIP, formado em Logística e pós-graduando em Ciência de Dados pela universidade Mackenzie.
 - 🔭 Atualmente estou me qualificando para trabalhar com Desenvolvimento e venho adquirindo competências em cloud, C#, Java, Python, CSS e HTML. 
 - 📫 Contate-me no e-mail: cfadriano@outlook.com
 - 😄 Pronouns: ele/dele
