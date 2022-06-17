@@ -2,7 +2,7 @@
 
 
 - 👨‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na UNIP, formado em Logística e pós-graduando em Ciência de Dados pela universidade Mackenzie.
-- 🔭 Atualmente estou me qualificando para trabalhar como Full Stack developer e venho adquirindo competências em cloud, C#, JavaScript, Python, CSS e HTML. 
+- 🔭 Atualmente venho adquirindo competências em cloud, C#, Machine Learning, Python, JavaScript, CSS e HTML. 
 - 📫 Contate-me no e-mail: cfadriano@outlook.com
 - 😄 Pronouns: ele/dele
 
