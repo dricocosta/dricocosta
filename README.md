@@ -2,7 +2,7 @@
 
 
 - 👨‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na UNIP, formado em Logística e pós-graduando em Ciência de Dados pela universidade Mackenzie.
-- 🔭 Atualmente venho adquirindo competências em C#, Machine Learning, Python, SQL, JavaScript, CSS e HTML. 
+- 🔭 Atualmente venho adquirindo competências em Java, Python, SQL, JavaScript, CSS e HTML. 
 - 📫 Contate-me no e-mail: cfadriano@outlook.com
 - 😄 Pronouns: ele/dele
 
