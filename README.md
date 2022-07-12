@@ -1,8 +1,8 @@
 ### Olá! Eu sou Adriano Costa 👋
 
 
-- 👨‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na UNIP e formado em Logística pela Universidade Anhembi Morumbi.
-- 🔭 Atualmente venho adquirindo competências em HTML, CSS e JavaScript. 
+- 👨‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na UNIP.
+- 🔭 Atualmente venho adquirindo competências em HTML, CSS e JavaScript visando me tornar um desenvolvedor front-end.
 - 📫 Contate-me no e-mail: cfadriano@outlook.com
 - 😄 Pronouns: ele/dele
 
