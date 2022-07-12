@@ -16,7 +16,7 @@
   <img align="center" alt="Drico-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Drico-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Drico-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Drico-pic" height="150" style="border-radius:50px;" src="[https://unsplash.com/photos/pC_ABnDlTRk](https://images.unsplash.com/photo-1657459945845-6d287c0e28d4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyNzZ8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60)">
+  <img align="right" alt="Drico-pic" height="150" style="border-radius:50px;" src="https://images.unsplash.com/photo-1657459945845-6d287c0e28d4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80">
 </div>
   
   ##
