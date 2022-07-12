@@ -16,7 +16,7 @@
   <img align="center" alt="Drico-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Drico-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Drico-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Drico-pic" height="150" style="border-radius:50px;" src="[https://memegenerator.net/img/instances/49325419/pacincia-pequeno-gafanhoto.jpg](https://ae01.alicdn.com/kf/HTB1i9ZKNXXXXXXJaXXXq6xXFXXXK/Harrison-Ford-Filme-de-A-o-de-Star-Wars-Han-Solo-Arte-de-impress-o-Da.jpg_Q90.jpg_.webp)">
+  <img align="right" alt="Drico-pic" height="150" style="border-radius:50px;" src="https://images.unsplash.com/photo-1657491784312-cf194c7d08fd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80">
 </div>
   
   ##
