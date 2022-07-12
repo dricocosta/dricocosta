@@ -4,7 +4,7 @@
 - 👨‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na UNIP.
 - 🔭 Atualmente venho adquirindo competências em HTML, CSS e JavaScript visando me tornar um desenvolvedor front-end.
 - 📫 Contate-me no e-mail: cfadriano@outlook.com
-- 😄 Pronouns: ele/dele
+- 😄 Sou apaixonado por fotografia, livros, fisiculturismo natural e séries de TV.
 
 <div align="center">
   <a href="https://github.com/dricocosta">
