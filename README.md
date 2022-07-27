@@ -2,7 +2,7 @@
 
 
 - 👨‍🎓 Sou estudante de Análise e Desenvolvimento de Sistemas na UNIP.
-- 🔭 Atualmente venho adquirindo competências em HTML, CSS e JavaScript visando me tornar um desenvolvedor front-end.
+- 🔭 Atualmente venho adquirindo competências em segurança da informação e nas linguagens HTML, CSS, JavaScript e Python.
 - 📫 Contate-me no e-mail: cfadriano@outlook.com
 
 <div align="center">
